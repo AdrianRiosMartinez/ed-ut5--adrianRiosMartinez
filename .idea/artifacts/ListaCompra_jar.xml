@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ListaCompra:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ListaCompra_jar</output-path>
+    <root id="archive" name="ListaCompra.jar">
+      <element id="module-output" name="ListaCompra" />
+    </root>
+  </artifact>
+</component>
